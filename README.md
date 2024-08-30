@@ -1,4 +1,21 @@
-This repository contains a collection of experiments conducted using the PIC microcontroller.
-The experiments cover various functionalities, including LCD interfacing, LED chasing, and more.
-The proteus project for the LCD interfacing using 8051 is also available.
-Also the files bootloader.ikr and vector_relocate.h are available in this repository.
+- This repository contains a collection of experiments conducted using the PIC microcontroller.
+- The experiments cover various functionalities, including LCD interfacing, LED chasing, and more.
+- The proteus project for the LCD interfacing using 8051 is also available.
+- Also the files bootloader.ikr and vector_relocate.h are available in this repository.
+
+### PIC18F4550 Overview: 
+- The PIC18F4550-I/ML is a high-performance PIC18 family 8-bit powerful (200 nanosecond instruction execution) yet easy-to-program CMOS flash based Microcontroller packs powerful PIC®(RISC) architecture with up to 16 MIPS of processing power. This product offer all of the advantages of the well recognized high-performance x16 architecture with standardized features including 32kB of addressable program memory size, 2048bytes of data memory size, 35 general-purpose I/O pins, two comparators and 13-channel 10-bit analog-to-digital (A/D) converter. This device operates at a maximum frequency of 48MHz wide operating voltage of 2 to 5.5V.
+- One 8-bit digital timer
+- Three 16-bit digital timers
+- 1x Capture/Compare/PWM (CCP)
+- 1x Enhanced Capture/Compare/PWM (ECCP)
+- full-speed USB 2.0
+- Local interconnect network (LIN)
+- In-Circuit Serial Programming™ (ICSP™)
+- 256bytes of EEPROM data memory
+- 1 (8-bit) file select register
+- Programmable brown-out reset (BOR)
+- Programmable low voltage detection
+- Power on reset (POR)
+- 32kHz to 8MHz internal oscillator
+- Watch dog timer (WDT)
